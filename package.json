@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/hyeri0609/studygoogle/issues"
   },
-  "homepage": "https://github.com/hyeri0609/studygoogle#readme"
+  "homepage": "https://github.com/hyeri0609/studygoogle#readme",
+  "devDependencies": {
+    "mocha": "^4.0.1",
+    "supertest": "^3.0.0"
+  }
 }
